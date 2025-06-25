@@ -2,7 +2,7 @@ TCS Stock Data - Live and Latest
 ---------------------------------------
 
 👨‍💻 Project By: Anurag Dewangan
-📅 Submission Date: 26/06/2025
+📅 Submission Date: 25/06/2025
 
 🔍 Objective:
 To analyze and predict TCS stock prices using Machine Learning (Linear Regression) and Deep Learning (LSTM).
@@ -21,9 +21,14 @@ To analyze and predict TCS stock prices using Machine Learning (Linear Regressio
 5. README.txt - This file
 
 📊 Graphs Included:
-- TCS Close Price Over Time.png → TCS closing price over time
-- Actual vs Predicted Close Price.png → Linear Regression predictions
-- TCS Close Price  + LSTM Prediction.png → LSTM predicted price with trend line
+- Close Price Over Time	
+- Volume, Dividends, Stock Splits	
+- Correlation Heatmap	
+- 30-Day Moving Average	
+- Moving Average Crossover Strategy	
+- Daily % Price Change Histogram	
+- Actual vs Predicted (LSTM)	
+- Prediction Line on Future Price
 
 
 📊 Project Summary:
