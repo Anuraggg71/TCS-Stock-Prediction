@@ -1,6 +1,6 @@
 # TCS Stock Data – Live and Latest
 
-> Internship Project | Submission Date: 26/06/2025  
+> Internship Project | Submission Date: 25/06/2025  
 > By Anurag Dewangan
 
 ---
